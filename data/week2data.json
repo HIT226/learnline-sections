@@ -1,0 +1,172 @@
+{
+	"sections": [
+		{
+			"title": "HTML5 Structural ElementHTML5 Structural Elementss",
+			"link": "",
+			"linkTitle": "",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
+			"imageText": "HTML5 logo",
+			"imageTitle": "HTML5 logo",
+			"imageRef": "https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg",
+			"imageRefTitle": "W3C [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)]",
+			"imageRefDate": "24th Feburary 2019",
+			"slidesUrl": "https://hit226.github.io/slides/week2/#/1",
+			"mainResource": {
+				"title": "Structural Semantics: The Importance Of HTML5 Sectioning Elements",
+				"url": "https://www.smashingmagazine.com/2013/01/the-importance-of-sections/"
+			},
+			"extraResources": [
+				{
+					"title": "Sections content for markup activity",
+					"url": "https://online.cdu.edu.au/bbcswebdav/pid-2721806-dt-content-rid-10171166_2/xid-10171166_2"
+				},
+				{
+					"title": "W3C.org: Enter HTML5 structural elements",
+					"url": "https://www.w3.org/wiki/HTML_structural_elements?utm_source=twitterfeed&amp;utm_medium=twitter#Enter_HTML5_structural_elements"
+				},
+				{
+					"title": "The practical value of semantic HTML",
+					"url": "https://www.brucelawson.co.uk/2018/the-practical-value-of-semantic-html/"
+				}
+			],
+			"subHeading": "Can you layout a page using the HTML5 structural elements",
+			"intro": "Given an image are you able to create markup to create a page that could match the image?",
+			"callToAction": "Have a go!",
+			"tasks": [
+				"View the slides about the structural elements of HTML 5.",
+				"Next read about the structural elements from the W3C:  [W3C: HTML5 Structural Elements](https://www.w3.org/wiki/HTML_structural_elements?utm_source=twitterfeed&utm_medium=twitter#Enter_HTML5_structural_elements)",
+				"Markup the &quot;Importance of Sections&quot; content in the text file using semantic markup"
+			]
+		},
+		{
+			"title": "GitHub Pages",
+			"image": "https://farm2.staticflickr.com/1482/24588096069_59a0513790_q_d.jpg",
+			"imageText": "GitHub OctoCat",
+			"imageTitle": "GitHub OctoCat",
+			"imageRef": "https://www.flickr.com/photos/appleboy/24588096069",
+			"imageRefTitle": "Bo-Yi Wu",
+			"imageRefDate": "12 April 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week6/#/1",
+			"mainResource": {
+				"title": "Getting Started with GitHub pages",
+				"url": "https://guides.github.com/features/pages/"
+			},
+			"extraResources": [
+			],
+			"subHeading": "Free static web hosting from GitHub",
+			"intro": "Setting up GitHub pages to host your content",
+			"callToAction": "Set up your GitHub repo to host your web content",
+			"tasks": [
+				"Host your repositories with GitHub"
+			]
+		},
+		{
+			"title": "Chrome and Lighthouse",
+			"link": "https://www.google.com/chrome/",
+			"linkTitle": "Google Chrome Browser",
+			"image": "https://hit226.github.io/slides/week2/images/Google_Chrome_icon_2011.svg",
+			"imageText": "Google Chrome Logo",
+			"imageTitle": "Google Chrome Logo",
+			"imageRef": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Chrome_icon_%28September_2014%29.svg",
+			"imageRefTitle": "© Google",
+			"imageRefDate": "24th January 2019",
+			"slidesUrl": "https://hit226.github.io/slides/week2/#/3",
+			"mainResource": {
+				"title": "Google Chrome Browser",
+				"url": "https://www.google.com/chrome/"
+			},
+			"extraResources": [
+				{
+					"title": "Chrome Web Store: Lighthouse",
+					"url": "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk"
+				},
+				{
+					"title": "About lighthouse",
+					"url": "https://developers.google.com/web/tools/lighthouse/"
+				},
+				{
+					"title": "Chrome Web Store: Web Server for Chrome",
+					"url": "https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en"
+				}
+			],
+			"subHeading": "Setup your browser toolkit",
+			"intro": "Your browser is an important part of your development environment. Learn to use some powerful tools for Google Chrome.",
+			"callToAction": "",
+			"tasks": [
+				"Install the lighthouse chrome plugin",
+				"Use lighthouse to test your website",
+				"Install the web server for chrome to setup a local webserver"
+			]
+		},
+		{
+			"title": "Are your pages accessible? ",
+			"link": "https://a11yproject.com/",
+			"linkTitle": "The a11y project",
+			"image": "https://online.cdu.edu.au/bbcswebdav/pid-2721806-dt-content-rid-10170572_2/courses/HIT226_Sem1_2019/a11y.svg",
+			"imageText": "A11y project logo",
+			"imageTitle": "A11y project logo",
+			"imageRef": "https://a11yproject.com/",
+			"imageRefTitle": "© The A11y Project",
+			"imageRefDate": "3rd March 2018",
+			"slidesUrl": "https://hit226.github.io/slides/week2/#/6",
+			"mainResource": {
+				"title": "The A11y project",
+				"url": "https://a11yproject.com/"
+			},
+			"extraResources": [
+				{
+					"title": "Accessible data tables",
+					"url": "https://www.accessibility-developer-guide.com/examples/tables/"
+				},
+				{
+					"title": "Accessible forms",
+					"url": "https://www.accessibility-developer-guide.com/examples/forms/"
+				},
+				{
+					"title": "Accessible form activity",
+					"url": "https://codepen.io/elvey/pen/OdePrM"
+				},
+				{
+					"title": "Colour contrasts",
+					"url": "http://clrs.cc/a11y/"
+				},
+				{
+					"title": "Contrast ratio tester",
+					"url": "https://contrast-ratio.com/"
+				},
+				{
+					"title": "Colour contrast exercise",
+					"url": "https://github.com/HIT226/lawfirm-exercise"
+				},
+				{
+					"title": "Web accessibility checklist",
+					"url": "https://a11yproject.com/checklist"
+				},
+				{
+					"title": "Accessibility checker",
+					"url": "https://achecker.ca/checker/index.php"
+				},
+				{
+					"title": "Three quick accessibility tips",
+					"url": "https://www.slideshare.net/maxdesign/three-quick-accessibility-tips-for-html5?utm_source=slideshow&utm_medium=%20ssemail&utm_campaign=upload_digest"
+				},
+				{
+					"title": "Screen reader video",
+					"url": "https://www.youtube.com/watch?time_continue=2&v=q_ATY9gimOM"
+				}
+			],
+			"subHeading": "Web Accessibility: what does it mean for your code?",
+			"intro": "Accessibility is important to ensure everyone can access our content.  This is both a moral and legal obligation for many content producers.",
+			"callToAction": "",
+			"tasks": [
+				"Read how to make tables accessible",
+				"Forms are important components of webpages. Learn how to make accessible forms",
+				"The code in the form activity has a number of problems. Fix the HTML to make it accessible",
+				"Learn about colour contrast and why it is important",
+				"Complete the colour activity to fix the colour contrast on a webpage",
+				"Use the colour contrast tools to test the colour contrast on your page",
+				"Check your website against the accessibility checklist and checker"
+			]
+		}
+	]
+}

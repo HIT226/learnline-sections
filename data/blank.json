@@ -1,0 +1,41 @@
+{
+	"sections": [
+		{
+			"title": "",
+			"link": "",
+			"linkTitle": "",
+			"image": "",
+			"imageText": "",
+			"imageTitle": "",
+			"imageRef": "",
+			"imageRefTitle": "",
+			"imageRefDate": "",
+			"slidesUrl": "",
+			"mainResource": {
+				"title": "",
+				"url": ""
+			},
+			"extraResources": [
+				{
+					"title": "",
+					"url": ""
+				},
+				{
+					"title": "",
+					"url": ""
+				},
+				{
+					"title": "",
+					"url": ""
+				}
+			],
+			"subHeading": "",
+			"intro": "",
+			"callToAction": "",
+			"tasks": [
+				"",
+				""
+			]
+		}
+	]
+}
