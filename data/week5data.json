@@ -1,0 +1,81 @@
+{
+	"sections": [
+		{
+			"title": "CSS Transitions",
+			"image": "https://mdn.mozillademos.org/files/4529/TransitionsPrinciple.png",
+			"imageText": "CSS Transition",
+			"imageTitle": "CSS Transition",
+			"imageRef": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions",
+			"imageRefTitle": "MDN",
+			"imageRefDate": "29 March 2018",
+			"slidesUrl": "http://localhost/hit226/slides/slides/week5/#/1",
+			"mainResource": {
+				"title": "CSS Transitions",
+				"url": "http://css3.bradshawenterprises.com/transitions/"
+			},
+			"extraResources": [
+			],
+			"subHeading": "Add animations to your page",
+			"intro": "CSS transitions are a fast and easy way to animate changes in your element properties",
+			"callToAction": "Add some animaition to your pages",
+			"tasks": [
+				"Read about applying CSS transitions",
+				"Can you modify the animation in the slides?"
+			]
+		},
+		{
+			"title": "CSS Grid",
+			"image": "https://hit226.github.io/slides/slides/week5/images/grid-image-gallery.png",
+			"imageText": "CSS grid example",
+			"imageTitle": "CSS grid photo gallery",
+			"imageRef": "",
+			"imageRefTitle": "Matt Elvey",
+			"imageRefDate": "29 March 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week5/#/2",
+			"mainResource": {
+				"title": "MDN: Grid playground",
+				"url": "https://mozilladevelopers.github.io/playground/css-grid/"
+			},
+			"extraResources": [
+				{
+					"title": "Grid garden",
+					"url": "http://cssgridgarden.com/"
+				}
+			],
+			"subHeading": "A new layout system",
+			"intro": "A vertsitile way to place your elements",
+			"callToAction": "Build a grid system for you page",
+			"tasks": [
+				"Read how the grid system works on MDN",
+				"Manage your garden with grid at the grid garden"
+			]
+		},
+		{
+			"title": "Material Cards",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Assistent.jpg",
+			"imageText": "Google assistent cards",
+			"imageTitle": "Google assistent",
+			"imageRef": "https://upload.wikimedia.org/wikipedia/commons/5/55/Assistent.jpg`",
+			"imageRefTitle": "Wikimedia",
+			"imageRefDate": "29th March 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week5/#/3",
+			"mainResource": {
+				"title": "Material cards guidelines",
+				"url": "https://material.io/guidelines/components/cards.html"
+			},
+			"extraResources": [
+				{
+					"title": "Smashing: Designing card based interfaces",
+					"url": "https://www.smashingmagazine.com/2016/10/designing-card-based-user-interfaces/"
+				}
+			],
+			"subHeading": "Some microcontent you can usSome microcontent you can use",
+			"intro": "Cards are a popular way to present small pieces of content on a page",
+			"callToAction": "Create some cards that you can use anywhere",
+			"tasks": [
+				"Read the guidelines from material.io",
+				"Read how to layout a page using cards from smashing"
+			]
+		}
+	]
+}

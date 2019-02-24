@@ -1,0 +1,136 @@
+{
+	"sections": [
+		{
+			"title": "Project Structure",
+			"image": "https://online.cdu.edu.au/bbcswebdav/xid-8874873_2",
+			"imageText": "Folder structure",
+			"imageTitle": "Folder Structure",
+			"imageRef": "",
+			"imageRefTitle": "Matt Elvey",
+			"imageRefDate": "19 April 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week7/#/1",
+			"subHeading": "Get organised",
+			"intro": "Creating an intuitive structure for your project files",
+			"callToAction": "Set up your project structure",
+			"tasks": [
+				"Follow the slides and setup the structure for your team project"
+			]
+		},
+		{
+			"title": "Javascript functions",
+			"image": "https://online.cdu.edu.au/bbcswebdav/xid-8874874_2",
+			"imageText": "Javascript function",
+			"imageTitle": "Javascript function",
+			"imageRef": "",
+			"imageRefTitle": "",
+			"imageRefDate": "",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week7/#/2",
+			"mainResource": {
+				"title": "How to Define Functions in Javascript",
+				"url": "https://www.digitalocean.com/community/tutorials/how-to-define-functions-in-javascript"
+			},
+			"extraResources": [
+				{
+					"title": "HTML Boilerplate",
+					"url": "https://github.com/HIT223/HTML-Boilerplate"
+				},
+				{
+					"title": "Code Combat",
+					"url": "https://codecombat.com/"
+				}
+			],
+			"subHeading": "Save some code for later",
+			"intro": "Functions allow you to save a routine to call when you need",
+			"callToAction": "Use functions to create reusable code",
+			"tasks": [
+				"Read an overview of how to define javascript functions",
+				"Download the boilerplate to follow along with the lecture code",
+				"Signup to code combat. Use the class code UnderSmallFoot and attempt Web Development 2"
+			]
+		},
+		{
+			"title": "Arrays",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/01-array.svg",
+			"imageText": "Array",
+			"imageTitle": "Array",
+			"imageRef": "",
+			"imageRefTitle": "",
+			"imageRefDate": "",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week7/#/3a",
+			"mainResource": {
+				"title": "MDN: Array",
+				"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"
+			},
+			"extraResources": [
+				{
+					"title": "How to use array accessor methods",
+					"url": "https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-accessor-methods"
+				}
+			],
+			"subHeading": "Enter the matrix (sort of)",
+			"intro": "An array can store contigious sets of data for you to traverse",
+			"callToAction": "Lean how to create an navigate arrays for more complex data management",
+			"tasks": [
+				"Read how to define an use arrays",
+				"Try using the iteration you learned last wee to traverse arrays",
+				"Have a look at the aray accssor methods for more advanced array management"
+			]
+		},
+		{
+			"title": "Accessing the DOM",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DOM-model.svg",
+			"imageText": "DOM diagram",
+			"imageTitle": "DOM Diagram",
+			"imageRef": "https://commons.wikimedia.org/wiki/File:DOM-model.svg",
+			"imageRefTitle": "Birger Eriksson",
+			"imageRefDate": "19th April 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week7/#/4",
+			"mainResource": {
+				"title": "Methods for accessing the DOM",
+				"url": "https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom"
+			},
+			"extraResources": [
+				{
+					"title": "Hair salon site",
+					"url": "https://online.cdu.edu.au/bbcswebdav/xid-8672408_2"
+				}
+			],
+			"subHeading": "Dominate the DOM",
+			"intro": "Navigate your HTML document with Javascript",
+			"callToAction": "Unlock the power of the DOM with javascript",
+			"tasks": [
+				"Read about the different methods available for accessing the DOM",
+				"Try querying the DOM from the Chrome dev tools console",
+				"Download the hairsalon page and try the selectors from the slides"
+			]
+		},
+		{
+			"title": "Classes and Javascript",
+			"image": "https://online.cdu.edu.au/bbcswebdav/pid-2633300-dt-content-rid-8874889_2/xid-8874889_2",
+			"imageText": "Web Logos with javascript at the front",
+			"imageTitle": "Web Logos",
+			"imageRef": "",
+			"imageRefTitle": "",
+			"imageRefDate": "",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week7/#/5",
+			"mainResource": {
+				"title": "HTML5 Doctor: Classlist",
+				"url": "http://html5doctor.com/the-classlist-api/"
+			},
+			"extraResources": [
+				{
+					"title": "MDN: Classlist",
+					"url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/classList"
+				}
+			],
+			"subHeading": "Give your elements some class",
+			"intro": "Manage your elements classes with Javascript",
+			"callToAction": "Use javascript to add and remove classes from DOM elements",
+			"tasks": [
+				"Read about classlist on the HTML5 Doctor",
+				"Have a look at the classlist API on MDN for a more in depth description",
+				"Try modifying the classes of elements on your website"
+			]
+		}
+	]
+}

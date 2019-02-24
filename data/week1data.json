@@ -1,0 +1,127 @@
+{
+	"sections": [
+		{
+			"title": "Setup Atom",
+			"link": "https://atom.io/",
+			"linkTitle": "Atom Editor",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg",
+			"imageText": "Atom logo",
+			"imageTitle": "Atom logo",
+			"imageRef": "https://commons.wikimedia.org/wiki/File:Atom_editor_logo.svg",
+			"imageRefTitle": "By GitHub",
+			"imageRefDate": "12 Feburary 2018",
+			"slidesUrl": "https://hit226.github.io/slides/week1/#/1",
+			"mainResource": {
+				"title": "Atom homepage",
+				"url": "https://atom.io"
+			},
+			"extraResources": [
+				{
+					"title": "Atom Basics",
+					"url": "https://flight-manual.atom.io/getting-started/sections/atom-basics/"
+				},
+				{
+					"title": "Keyboard shortcuts",
+					"url": "https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee"
+				},
+				{
+					"title": "Dev Docs plugin",
+					"url": "https://atom.io/packages/devdocs"
+				}
+			],
+			"subHeading": "Atom is a cross platform, customisable text editor for coding.",
+			"intro": "You need a text editor to work in this unit. Atom is recommended. (Off campus students, if you have your own preferred text editor you may use that.) ",
+			"callToAction": null,
+			"tasks": [
+				"[Download the text editor](https://atom.io/)",
+				"Open your prep for unit  markup in this text editor",
+				"Work through the [Atom Basics](https://flight-manual.atom.io/getting-started/sections/atom-basics/)",
+				"Learn some [keyboard shortcuts](https://devdocs.io/)",
+				"Install the [Devdocs plugin](https://atom.io/packages/devdocs)"
+			]
+		},
+		{
+			"title": "Using Git",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg",
+			"imageText": "Git icon",
+			"imageTitle": "Git icon",
+			"imageRef": "https://commons.wikimedia.org/wiki/File:Git_icon.svg",
+			"imageRefTitle": "Json Long [CC By 3.0](https://creativecommons.org/licenses/by/3.0/)",
+			"imageRefDate": "Feburary 23rd 2019",
+			"slidesUrl": "https://hit226.github.io/slides/week1/#/2",
+			"mainResource": {
+				"title": "Download git",
+				"url": "https://git-scm.com/"
+			},
+			"extraResources": [
+				{
+					"title": "Git - the simple guide",
+					"url": "http://rogerdudler.github.io/git-guide/"
+				},
+				{
+					"title": "A visual introduction to git",
+					"url": "https://medium.com/@ashk3l/a-visual-introduction-to-git-9fdca5d3b43a"
+				}
+			],
+			"subHeading": "How do you keep track of code when working in teams?",
+			"intro": "Git is a powerful tool to keep track of and to share your code. It lets us maintain multiple versions and makes it really easy to share our code with the world.",
+			"callToAction": "Use the slides (follow the link) for how to start working with GIT and complete the following tasks:",
+			"tasks": [
+				"Create a [github](https://github.com/) account.",
+				"Install a [git client](https://git-scm.com/downloads). If using windows be sure to include git bash.",
+				"Create a new repository, clone it to your computer and commit your code from the prep for unit"
+			]
+		},
+		{
+			"title": "Valid & Semantic HTML",
+			"image": "https://online.cdu.edu.au/bbcswebdav/pid-2474155-dt-content-rid-8530792_2/xid-8530792_2",
+			"imageText": "HTML5 element flowchart",
+			"imageTitle": "HTML Doctor: Element flowchart",
+			"imageRef": "http://html5doctor.com/",
+			"imageRefTitle": "© @riddle & @boblet",
+			"imageRefDate": "12 January 2018",
+			"slidesUrl": "https://hit226.github.io/slides/week1/#/3",
+			"mainResource": {
+				"title": "W3C Validator",
+				"url": "https://validator.w3.org/"
+			},
+			"extraResources": [
+				{
+					"title": "MDN: Content Categories",
+					"url": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories"
+				},
+				{
+					"title": "HTML5 Element Flowchart",
+					"url": "http://html5doctor.com/downloads/h5d-sectioning-flowchart.png"
+				},
+				{
+					"title": "HTML5Doctor: Let's talk about semantics",
+					"url": "http://html5doctor.com/lets-talk-about-semantics/"
+				}
+			],
+			"subHeading": "Good quality code is valid and semantic",
+			"intro": "Why is valid & semantic code important?",
+			"callToAction": "",
+			"tasks": [
+				{
+					"title": "Did you check your prep for unit page in a validator?",
+					"subtasks": [
+						"you were introduced to the W3c validator in HIT 164!",
+						"if you have forgotten try it now: ",
+						"[https://validator.w3.org/#validate_by_uri](https://validator.w3.org/#validate_by_uri)"
+					]
+				},
+				{
+					"title": "Have a look at the different categories of HTML5 elements",
+					"subtasks": [
+						"Content categories (Mozilla) ",
+						"Read through these and work out what you might have used in the Prep for unit  task,",
+						"Next, check out the HTML5 Element Flow chart",
+						"Finally go back to your HTML code (open it in Atom).",
+						"Update your code now so that it is both semantically correct & valid."
+					]
+				}
+			]
+		}
+	]
+}

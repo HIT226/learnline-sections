@@ -1,0 +1,58 @@
+{
+	"sections": [
+		{
+			"title": "GitHub Pages",
+			"image": "https://farm2.staticflickr.com/1482/24588096069_59a0513790_q_d.jpg",
+			"imageText": "GitHub OctoCat",
+			"imageTitle": "GitHub OctoCat",
+			"imageRef": "https://www.flickr.com/photos/appleboy/24588096069",
+			"imageRefTitle": "Bo-Yi Wu",
+			"imageRefDate": "12 April 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week6/#/1",
+			"mainResource": {
+				"title": "Getting Started with GitHub pages",
+				"url": "https://guides.github.com/features/pages/"
+			},
+			"extraResources": [
+			],
+			"subHeading": "Free static web hosting from GitHub",
+			"intro": "Setting up GitHub pages to host your content",
+			"callToAction": "Set up your GitHub repo to host your web content",
+			"tasks": [
+				"Host your repositories with GitHub"
+			]
+		},
+		{
+			"title": "Introduction to Javascript",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/128px-Unofficial_JavaScript_logo_2.svg.png",
+			"imageText": "Javascript Logo",
+			"imageTitle": "Javascript Logo",
+			"imageRef": "",
+			"imageRefTitle": "",
+			"imageRefDate": "",
+			"slidesUrl": "http://localhost/hit226/slides/slides/week6/#/2",
+			"mainResource": {
+				"title": "Javascript for Cats",
+				"url": "http://jsforcats.com/"
+			},
+			"extraResources": [
+				{
+					"title": "HTML Boilerplate",
+					"url": "https://github.com/HIT223/HTML-Boilerplate"
+				},
+				{
+					"title": "Code Combat",
+					"url": "https://codecombat.com"
+				}
+			],
+			"subHeading": "A new layout system",
+			"intro": "A vertsitile way to place your elements",
+			"callToAction": "Build a grid system for you page",
+			"tasks": [
+				"Read an overview on javascript at Javascript for Cats",
+				"Attach a script to your webpage and log some output to the console",
+				"Play the Web Development 2 course on Code Combat"
+			]
+		}
+	]
+}

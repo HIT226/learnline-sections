@@ -1,0 +1,68 @@
+{
+	"sections": [
+		{
+			"title": "Editing the DOM",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Dom_tree.png",
+			"imageText": "Hand drawn image of document tree",
+			"imageTitle": "DOM",
+			"imageRef": "https://commons.wikimedia.org/wiki/File:Dom_tree.png",
+			"imageRefTitle": "L. David Baron",
+			"imageRefDate": "3 May 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week10/#/4",
+			"mainResource": {
+				"title": "The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery",
+				"url": "https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/"
+			},
+			"extraResources": [
+				{
+					"title": "Hair Stylist page",
+					"url": "https://online.cdu.edu.au/bbcswebdav/xid-9105143_2"
+				},
+				{
+					"title": "Incomplete tour library",
+					"url": "https://online.cdu.edu.au/bbcswebdav/pid-2635832-dt-content-rid-9151097_2/xid-9151097_2"
+				}
+			],
+			"subHeading": "Update the page using javascript",
+			"intro": "Before javascript we used to have to refresh a page to get changes. With the DOM API we can make changes instantly.",
+			"callToAction": "Use javascript to add, remove and modify the contents on a page",
+			"tasks": [
+				"Download the hair stylist page and attach tour.js. Add the missing code to make the tour library work",
+				"Read the article from sitepoint to learn more tricks to modify the DOM"
+			]
+		},
+		{
+			"title": "Finishing Up",
+			"image": "https://c1.staticflickr.com/9/8431/7649947722_cd4d7d9f7f_b.jpg",
+			"imageText": "The finish of the men's 400 metres at the Olympic Games, London, 1948.",
+			"imageTitle": "Olympic 1948 400m finish",
+			"imageRef": "https://www.flickr.com/photos/nationalmediamuseum/7649947722",
+			"imageRefTitle": "National Science and Media Museum",
+			"imageRefDate": "10 May 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week10/#/5",
+			"mainResource": {
+				"title": "10 Steps to Finishing a Website Project So Everyone’s Happy",
+				"url": "https://premium.wpmudev.org/blog/finish-website-happy-client/"
+			},
+			"extraResources": [
+				{
+					"title": "Youtube: MVP",
+					"url": "https://youtu.be/jHyU54GhfGs"
+				},
+				{
+					"title": "Sitepoint: Your Minimum Viable Product",
+					"url": "https://www.sitepoint.com/mvp-your-minimum-viable-product/"
+				}
+			],
+			"subHeading": "Time to wind up",
+			"intro": "When finishing a project it is important to make sure it is ready to stand by itself. Plan out a simple process you will use to make sure your project is ready to go on without you",
+			"callToAction": "Plan a finishing process",
+			"tasks": [
+				"Read some tips to help finish up",
+				"Build a checklist to run through before you finish",
+				"Test your website",
+				"Iterate from your MVP and user feedback to ensure your site is ready"
+			]
+		}
+	]
+}

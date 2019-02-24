@@ -1,0 +1,72 @@
+{
+	"sections": [
+		{
+			"title": "Device testing",
+			"image": "https://online.cdu.edu.au/bbcswebdav/pid-2474111-dt-content-rid-8055285_2/courses/HIT226_Sem1_2018/mobiletest-me.png",
+			"imageText": "Mobiletest.me",
+			"imageTitle": "mobiletest.me",
+			"imageRef": "http://mobiletest.me/",
+			"imageRefTitle": "mobiletest.me",
+			"imageRefDate": "2017",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week11/#/1",
+			"mainResource": {
+				"title": "Simulate devices",
+				"url": "https://developers.google.com/web/tools/chrome-devtools/device-mode/"
+			},
+			"extraResources": [
+				{
+					"title": "Mobile Test",
+					"url": "http://mobiletest.me/"
+				},
+				{
+					"title": "Mobile phone emulator",
+					"url": "http://www.mobilephoneemulator.com/"
+				},
+				{
+					"title": "Google's mobile-friendly tester",
+					"url": "https://search.google.com/search-console/mobile-friendly"
+				}
+			],
+			"subHeading": "Make sure to test your site properly",
+			"intro": "It is important to test your site on different devices.",
+			"callToAction": "Use your own phones and the following tools to make sure your site is ready for the real world",
+			"tasks": [
+				"Follow the guide on simulating devices in chrome to quickly test on different devices while developing your site",
+				"Use your own phones and devices to test your hosted site",
+				"Use some of the online resources to simulate additional devices"
+			]
+		},
+		{
+			"title": "Continuous learning",
+			"image": "https://www.maxpixel.net/static/photo/1x/Cactus-Pot-Book-Reading-Study-Education-Eyes-1059633.jpg",
+			"imageText": "A cactus reading a book",
+			"imageTitle": "Cactus reading a book",
+			"imageRef": "https://www.maxpixel.net/Cactus-Pot-Book-Reading-Study-Education-Eyes-1059633",
+			"imageRefTitle": "MaxPixel",
+			"imageRefDate": "17 May 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week11/#/2",
+			"mainResource": {
+				"title": "The front end dev handbook 2018",
+				"url": "https://frontendmasters.com/books/front-end-handbook/2018/"
+			},
+			"extraResources": [
+				{
+					"title": "RSS Feeds",
+					"url": "https://github.com/impressivewebs/frontend-feeds"
+				},
+				{
+					"title": "Which podcasts should web designers and developers be listening to?",
+					"url": "https://www.smashingmagazine.com/2018/04/podcasts-web-designers-developers/"
+				}
+			],
+			"subHeading": "Where to go from here?",
+			"intro": "Web design and development is a rapidly changing industry. This is exciting but it means anyone who wants to do well must keep learning",
+			"callToAction": "Get engaged and build on what you've learned",
+			"tasks": [
+				"Have a read of the front end dev handbook. There are great resources for everyone from beginners to experienced professionals.",
+				"Sign up to some blogs or RSS feeds to keep up to date with the industry",
+				"Listen to some podcasts to learn from industry leaders"
+			]
+		}
+	]
+}

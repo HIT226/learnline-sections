@@ -1,0 +1,135 @@
+{
+	"sections": [
+		{
+			"title": "Box Model",
+			"image": "https://hit226.github.io/slides/slides/week4/images/box-layout.png",
+			"imageText": "Box model from chrome dev tools",
+			"imageTitle": "Box model",
+			"imageRef": "https://www.google.com/chrome/",
+			"imageRefTitle": "Screenshot from Chrome Dev Tools",
+			"imageRefDate": "12 March 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week4/#/1",
+			"mainResource": {
+				"title": "MDN Introduction to the Box Model",
+				"url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model"
+			},
+			"extraResources": [
+				{
+					"title": "CSS Tricks: Box sizing",
+					"url": "https://css-tricks.com/box-sizing/"
+				}
+			],
+			"subHeading": "Learn the foundation of web page layout",
+			"intro": "Each element on the web is represented as a rectangular box. Nomatter what shape it looks like, the browser sees it as a rectangle. These boxes have a number of layers. The layers determine how big the element is and where it sits in relation to other elements.",
+			"callToAction": "What are the 4 layers of the box model?",
+			"tasks": [
+				"Read about the box model on MDN to find out what the 4 layers are",
+				"Learn about how the box model can make it confusing to set the size of our elements and how we can fix it.",
+				"What is an easier way to manage your box sizes?"
+			]
+		},
+		{
+			"title": "CSS Inheritance and Specificity",
+			"image": "https://hit226.github.io/slides/slides/week4/images/inheritance.png",
+			"imageText": "Family with a child inheriting hair and eye colour from parents",
+			"imageTitle": "Child inheriting from parents",
+			"imageRef": "",
+			"imageRefTitle": "Matt Elvey",
+			"imageRefDate": "22 March 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week4/#/2",
+			"mainResource": {
+				"title": "CSS Tricks: Specifics on specificity",
+				"url": "https://css-tricks.com/specifics-on-css-specificity/"
+			},
+			"extraResources": [
+				{
+					"title": "MDN: Cascade and inheritance",
+					"url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance"
+				}
+			],
+			"subHeading": "How Cascading Style Sheets Cascade",
+			"intro": "Learn about how some styles can &quot;cascade&quot; down to their children and how conflicting rules get applied.",
+			"callToAction": "CSS selectors are applied in the order of their specificity. Read about what specificity is and how it affects your CSS.",
+			"tasks": [
+				"Read about the specificity of CSS selectors from CSS Tricks.",
+				"Read about how CSS rules cascade and inherit from their parents on MDN"
+			]
+		},
+		{
+			"title": "Media Queries and Responsive Design",
+			"image": "https://online.cdu.edu.au/bbcswebdav/pid-2474101-dt-content-rid-8054381_2/xid-8054381_2",
+			"imageText": "Page layouts on desktop, tablet and mobile",
+			"imageTitle": "Resposive web page",
+			"imageRef": "http://www.bluewiremedia.com.au/blog/2011/12/",
+			"imageRefTitle": "bluewiremedia",
+			"imageRefDate": "1st Feburary 2014",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week4/#/3",
+			"mainResource": {
+				"title": "HTML5 Boilerplae",
+				"url": "https://github.com/HIT226/HTML-Boilerplate"
+			},
+			"extraResources": [
+				{
+					"title": "AtoZ CSS Screencast: Media Queries",
+					"url": "http://reference.sitepoint.com/css/mediaqueries"
+				},
+				{
+					"title": "CSS Media Queries & Using Available Space",
+					"url": "https://css-tricks.com/css-media-queries/"
+				},
+				{
+					"title": "MDN: Using media queries",
+					"url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries"
+				},
+				{
+					"title": "Smashing: Responsive Web Design – What It Is And How To Use It",
+					"url": "https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/"
+				},
+				{
+					"title": "Sitepoint: Responsive Web Design",
+					"url": "https://www.sitepoint.com/responsive-web-design/"
+				}
+			],
+			"subHeading": "Making adjustments",
+			"intro": "CSS3 Media Queries are the foundation of Responsive Web Design.  They are a newer CSS feature that lets you apply your styles based on conditions such as browser (viewport) width.",
+			"callToAction": "CSS selectors are applied in the order of their specificity.",
+			"tasks": [
+				"Download the HTML boilerplate and try to apply some media queries.",
+				"Read one of the provided articles to understand what media queries are and why we use them.",
+				"Read one of the providced articles on responsive web design to understand how to apply it and why it is important"
+			]
+		},
+		{
+			"title": "Flexbox",
+			"image": "https://hit226.github.io/slides/slides/week4/images/flexbox.png",
+			"imageText": "Colourful flexbox layout",
+			"imageTitle": "Flexbox Layout",
+			"imageRef": "",
+			"imageRefTitle": "Matt Elvey",
+			"imageRefDate": "12 March 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week4/#/5",
+			"mainResource": {
+				"title": "CSS Tricks: A complete guide to flexbox",
+				"url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+			},
+			"extraResources": [
+				{
+					"title": "Flexy Box Playground",
+					"url": "http://the-echoplex.net/flexyboxes/"
+				},
+				{
+					"title": "Codepen: Flexbox playground",
+					"url": "https://codepen.io/enxaneta/full/adLPwv"
+				}
+			],
+			"subHeading": "Flexible layout for flexible websites",
+			"intro": "Flexbox is a layout positioning system build to be responsive. It will stretch and move elements around to fill the available space. Things that used to be really hacky are now easy and well supported thanks to flexbox.",
+			"callToAction": "Create quick responsive layouts",
+			"tasks": [
+				"Read the complete guide learn how to use it. Save this site, it is a great reference for later.",
+				"Open one of the playgrounds and try out the different flexbox settings. Play around until you understand what they do."
+			]
+		}
+
+	]
+}

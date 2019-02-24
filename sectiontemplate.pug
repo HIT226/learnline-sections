@@ -1,0 +1,77 @@
+section(style="box-sizing: border-box; padding: 10px 10px; width: 100%; background-color: #222222; color: #dc143c;")
+	p(style="font-size: 40px;")
+	p(style="font-size: 40px;")
+		span(style="color: #ffffff;") SKILL UP
+		| :Code
+each section, index in sections
+	p
+		span(style="font-size: x-large; color: #222222;")
+			| #{index + 1}. #{section.title}
+			br
+	table(style="width: 707px;" cellpadding="10" border="0")
+		tbody
+			tr
+				td(width="250" valign="top")
+					if section.link
+						a(href=section.link title=section.linkTitle target="_blank")
+							img(src=section.image alt=section.imageText title=section.imageTitle style="font-size: 13px;" width="100" height="100")
+					else
+						img(src=section.image alt=section.imageText title=section.imageTitle style="font-size: 13px;" width="100" height="100")
+					br
+					br
+					p(style="margin-bottom: 0pt; line-height: normal; font-size: x-small;")
+						| The above image is from: 
+						if section.imageRef
+							a(href=section.imageRef title=section.imageRefTitle target="_blank")=section.imageRefTitle
+						else
+							span=section.imageRefTitle
+						br
+						span(size="2" style="font-size: x-small;")
+							| Accessed on: #{section.imageRefDate}
+						br
+					br
+					p
+						strong
+							span(style="color: #dc143c;") View:
+					ul
+						li 
+							a(href=section.slidesUrl target="_blank") slides
+					if section.mainResource
+						p
+							strong
+								span(style="color: #dc143c;") Do:
+						ul
+							li
+								a(href=section.mainResource.url title=section.mainResource.title target="_blank")=section.mainResource.title
+					if section.extraResources && section.extraResources.length
+						p
+							strong
+								span(style="color: #dc143c;") More:
+						ul
+							each resource in section.extraResources
+								li
+									a(href=resource.url title=resource.title target="_blank")=resource.title
+				td(valign="top")
+					p
+						span(style="font-size: large; color: #dc143c;")
+							em
+								span(style="font-family: verdana, geneva;")=section.subHeading
+								br
+					p=section.intro
+					p=section.callToAction
+					ul
+						each task in section.tasks
+							if typeof task === 'object'
+								li
+									span=task.title
+									ul
+										each subtask in task.subtasks
+											li=subtask
+							else
+								li=task
+
+	p
+	hr
+	p
+	p
+

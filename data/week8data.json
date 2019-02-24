@@ -1,0 +1,63 @@
+{
+	"sections": [
+		{
+			"title": "Debugging",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Icon_Debug_256x256.png",
+			"imageText": "Icon of a bug with a magnifying glass",
+			"imageTitle": "Debug",
+			"imageRef": "https://commons.wikimedia.org/wiki/File:Icon_Debug_256x256.png",
+			"imageRefTitle": "Devcore",
+			"imageRefDate": "26 April 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week8/#/1",
+			"mainResource": {
+				"title": "Get Started with Debugging JavaScript in Chrome DevTools",
+				"url": "https://developers.google.com/web/tools/chrome-devtools/javascript/"
+			},
+			"extraResources": [
+				{
+					"title": "Updated Hair Stylist page",
+					"url": "https://online.cdu.edu.au/bbcswebdav/xid-9105143_2"
+				}
+			],
+			"subHeading": "Clear out those bugs",
+			"intro": "Step through code as it executes to identify and fix errors",
+			"callToAction": "Examine and fix some broken code",
+			"tasks": [
+				"Watch the tutorial from Google Developers",
+				"Download the hair stylist page and fix the bugs in main.js"
+			]
+		},
+		{
+			"title": "Event Listeners",
+			"image": "https://online.cdu.edu.au/bbcswebdav/courses/HIT226_Sem1_2018/listening%20ear.png",
+			"imageText": "Person listening",
+			"imageTitle": "Listening",
+			"imageRef": "",
+			"imageRefTitle": "",
+			"imageRefDate": "",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week8/#/2",
+			"mainResource": {
+				"title": "Mouse Event Listeners",
+				"url": "https://codepen.io/elvey/pen/gzPLxv"
+			},
+			"extraResources": [
+				{
+					"title": "addEventListener docs",
+					"url": "https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener"
+				},
+				{
+					"title": "Event Types",
+					"url": "https://developer.mozilla.org/en-US/docs/Web/Events"
+				}
+			],
+			"subHeading": "Run your code based on user input",
+			"intro": "We can use addEventListener to respond to user actions",
+			"callToAction": "Use events to make your DOM interactive",
+			"tasks": [
+				"Try the different mouse event listeners to learn what they do",
+				"Read about the different event types to what you can respond to",
+				"Read the docs to learn some more advanced tricks"
+			]
+		}
+	]
+}

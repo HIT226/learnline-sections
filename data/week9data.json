@@ -1,0 +1,68 @@
+{
+	"sections": [
+		{
+			"title": "Editing the DOM",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Dom_tree.png",
+			"imageText": "Hand drawn image of document tree",
+			"imageTitle": "DOM",
+			"imageRef": "https://commons.wikimedia.org/wiki/File:Dom_tree.png",
+			"imageRefTitle": "L. David Baron",
+			"imageRefDate": "3 May 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week9/#/3",
+			"mainResource": {
+				"title": "The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery",
+				"url": "https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/"
+			},
+			"extraResources": [
+				{
+					"title": "Hair Stylist page",
+					"url": "https://online.cdu.edu.au/bbcswebdav/xid-9105143_2"
+				},
+				{
+					"title": "Incomplete tour library",
+					"url": "https://online.cdu.edu.au/bbcswebdav/pid-2635832-dt-content-rid-9151097_2/xid-9151097_2"
+				}
+			],
+			"subHeading": "Update the page using javascript",
+			"intro": "Before javascript we used to have to refresh a page to get changes. With the DOM API we can make changes instantly.",
+			"callToAction": "Use javascript to add, remove and modify the contents on a page",
+			"tasks": [
+				"Download the hair stylist page and attach tour.js. Add the missing code to make the tour library work",
+				"Read the article from sitepoint to learn more tricks to modify the DOM"
+			]
+		},
+		{
+			"title": "MVP",
+			"image": "https://online.cdu.edu.au/bbcswebdav/pid-2635832-dt-content-rid-8535948_2/xid-8535948_2",
+			"link": "https://cdu-edu-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=61CDU_Alma5145739850003446&context=L&vid=61CDU&search_scope=default_scope&tab=default_tab&lang=en_US",
+			"imageText": "LeanUX Cover",
+			"imageTitle": "LeanUX",
+			"imageRef": "http://shop.oreilly.com/product/0636920021827.do",
+			"imageRefTitle": "O'Reilly",
+			"imageRefDate": "3 May 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week9/#/4",
+			"mainResource": {
+				"title": "LeanUX Chapter 5: MVP",
+				"url": "https://online.cdu.edu.au/bbcswebdav/pid-2635832-dt-content-rid-9148111_2/xid-9148111_2"
+			},
+			"extraResources": [
+				{
+					"title": "Youtube: MVP",
+					"url": "https://youtu.be/jHyU54GhfGs"
+				},
+				{
+					"title": "Sitepoint: Your Minimum Viable Product",
+					"url": "https://www.sitepoint.com/mvp-your-minimum-viable-product/"
+				}
+			],
+			"subHeading": "What do you absolutely need?",
+			"intro": "An MVP is a way to test your ideas before commiting too many resources to them",
+			"callToAction": "Identify and develop your MVP",
+			"tasks": [
+				"Watch the video on creating an MVP",
+				"Read about why MVPs are valuable",
+				"Look at your site and identify your MVP"
+			]
+		}
+	]
+}

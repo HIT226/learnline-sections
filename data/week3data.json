@@ -1,0 +1,130 @@
+{
+	"sections": [
+		{
+			"title": "CSS Selectors",
+			"link": "http://css.maxdesign.com.au/",
+			"linkTitle": "Max Design CSS guide",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg",
+			"imageText": "CSS3 logo",
+			"imageTitle": "CSS3 logo",
+			"imageRef": "https://commons.wikimedia.org/wiki/File%3ACSS.3.svg",
+			"imageRefTitle": "By Nikotaf (Own work) [CC BY-SA 4.0]",
+			"imageRefDate": "12 March 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week3/#/1",
+			"mainResource": {
+				"title": "Sample site",
+				"url": "https://online.cdu.edu.au/bbcswebdav/xid-8672408_2"
+			},
+			"extraResources": [
+				{
+					"title": "CSS Diner",
+					"url": "https://flukeout.github.io/"
+				},
+				{
+					"title": "Max Design CSS guide",
+					"url": "http://css.maxdesign.com.au/"
+				},
+				{
+					"title": "CSS-tricks: How CSS selectors work",
+					"url": "https://css-tricks.com/how-css-selectors-work/"
+				}
+			],
+			"subHeading": "Finding your element",
+			"intro": "CSS uses selectors to identify which elements you want to style. They're a bit like queries for elements in your DOM",
+			"callToAction": "Learn some key CSS selectors",
+			"tasks": [
+				"Download the sample site and have a look at the CSS. How do you think it relates to the HTML?",
+				"Play the CSS diner. How can far you get?",
+				"Try complecting the Max Design guide",
+				"Have a read about CSS selectors on CSS-tricks and see if you can learn some more advanced selectors"
+			]
+		},
+		{
+			"title": "CSS Best Practices",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/93/CSS-shade.svg",
+			"imageText": "CSS icon",
+			"imageTitle": "Dreftmac CSS icon",
+			"imageRef": "https://commons.wikimedia.org/wiki/File%3ACSS-shade.svg",
+			"imageRefTitle": "Fenring at English Wikipedia",
+			"imageRefDate": "12 March 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week3/#/2",
+			"mainResource": {
+				"title": "Best practice sample",
+				"url": "https://online.cdu.edu.au/bbcswebdav/xid-8054379_2"
+			},
+			"extraResources": [
+				{
+					"title": "30 CSS Best Practices for Beginners",
+					"url": "https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741"
+				}
+			],
+			"subHeading": "To keep us all working together in harmony",
+			"intro": "There are lots of ways to write your CSS. When working with others it is important to make it as easy to understand as possible. To ensure our styles are easy to follow we follow best practices. Some of these decisions are arbitrary but it is important we agree on a set of standards and follow them.",
+			"callToAction": "Clean up your CSS",
+			"tasks": [
+				"Download the best practices sample and look at the CSS. It is easy to understand?",
+				"Read the 30 best practices for beginners. This guide is very old, firebug doesn't work anymore. We also encourage you not to use shorthand rules in this class to encourage you to learn all the configuration. The rest of the advice is really good and aimed at people just getting started with CSS."
+			]
+		},
+		{
+			"title": "Box Model",
+			"image": "https://online.cdu.edu.au/courses/1/HIT226_Sem1_2018/content/_2627136_1/embedded/box-layout.png",
+			"imageText": "Box model from chrome dev tools",
+			"imageTitle": "Box model",
+			"imageRef": "https://www.google.com/chrome/",
+			"imageRefTitle": "Screenshot from Chrome Dev Tools",
+			"imageRefDate": "12 March 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week3/#/4",
+			"mainResource": {
+				"title": "MDN Introduction to the Box Model",
+				"url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model"
+			},
+			"extraResources": [
+				{
+					"title": "CSS Tricks: Box sizing",
+					"url": "https://css-tricks.com/box-sizing/"
+				}
+			],
+			"subHeading": "Learn the foundation of web page layout",
+			"intro": "Each element on the web is represented as a rectangular box. Nomatter what shape it looks like, the browser sees it as a rectangle. These boxes have a number of layers. The layers determine how big the element is and where it sits in relation to other elements.",
+			"callToAction": "What are the 4 layers of the box model?",
+			"tasks": [
+				"Read about the box model on MDN to find out what the 4 layers are",
+				"Learn about how the box model can make it confusing to set the size of our elements and how we can fix it.",
+				"What is an easier way to manage your box sizes?"
+			]
+		},
+		{
+			"title": "Flexbox",
+			"image": "https://online.cdu.edu.au/courses/1/HIT226_Sem1_2018/content/_2627136_1/embedded/flexbox.png",
+			"imageText": "Colourful flexbox layout",
+			"imageTitle": "Flexbox Layout",
+			"imageRef": "",
+			"imageRefTitle": "Matt Elvey",
+			"imageRefDate": "12 March 2018",
+			"slidesUrl": "https://hit226.github.io/slides/slides/week3/#/5",
+			"mainResource": {
+				"title": "CSS Tricks: A complete guide to flexbox",
+				"url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+			},
+			"extraResources": [
+				{
+					"title": "Flexy Box Playground",
+					"url": "http://the-echoplex.net/flexyboxes/"
+				},
+				{
+					"title": "Codepen: Flexbox playground",
+					"url": "https://codepen.io/enxaneta/full/adLPwv"
+				}
+			],
+			"subHeading": "Flexible layout for flexible websites",
+			"intro": "Flexbox is a layout positioning system build to be responsive. It will stretch and move elements around to fill the available space. Things that used to be really hacky are now easy and well supported thanks to flexbox.",
+			"callToAction": "Create quick responsive layouts",
+			"tasks": [
+				"Read the complete guide learn how to use it. Save this site, it is a great reference for later.",
+				"Open one of the playgrounds and try out the different flexbox settings. Play around until you understand what they do."
+			]
+		}
+
+	]
+}
