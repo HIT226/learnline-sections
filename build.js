@@ -6,12 +6,17 @@ const pug = require('pug');
 
 function updateSection(section) {
 	if(section.tasks) {
+
+		const renderer = new marked.Renderer();
+		renderer.paragraph = (text) => `<p style="margin-top: 0; margin-bottom: 0">${text}</p>`;
+
 		const tasks = section.tasks.map((task) => {
 			if(typeof task === 'object') {
-				const subtasks = task.subtasks.map((subtask) => marked(subtask));
+				const subtasks = task.subtasks.map((subtask) => marked(subtask, {renderer}))
 				return Object.assign({}, task, {subtasks});
 			}
-			return marked(task);
+			const markedTask = marked(task, {renderer});
+			
 		});
 
 		console.log(tasks);
