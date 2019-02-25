@@ -2,3 +2,5 @@ old
 tmp
 *.swp
 sectiontemplate.html
+node_modules
+build
