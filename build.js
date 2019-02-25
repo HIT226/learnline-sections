@@ -15,7 +15,7 @@ function updateSection(section) {
 				const subtasks = task.subtasks.map((subtask) => marked(subtask, {renderer}))
 				return Object.assign({}, task, {subtasks});
 			}
-			const markedTask = marked(task, {renderer});
+			return marked(task, {renderer});
 			
 		});
 
