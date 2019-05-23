@@ -8,7 +8,7 @@
 			"imageRef": "http://mobiletest.me/",
 			"imageRefTitle": "mobiletest.me",
 			"imageRefDate": "2017",
-			"slidesUrl": "https://hit226.github.io/slides/slides/week11/#/1",
+			"slidesUrl": "https://hit226.github.io/slides/week11/#/2",
 			"mainResource": {
 				"title": "Simulate devices",
 				"url": "https://developers.google.com/web/tools/chrome-devtools/device-mode/"
@@ -24,7 +24,7 @@
 				},
 				{
 					"title": "Google's mobile-friendly tester",
-					"url": "https://search.google.com/search-console/mobile-friendly"
+					"url": "https://search.google.com/test/mobile-friendly"
 				}
 			],
 			"subHeading": "Make sure to test your site properly",
@@ -44,10 +44,10 @@
 			"imageRef": "https://www.maxpixel.net/Cactus-Pot-Book-Reading-Study-Education-Eyes-1059633",
 			"imageRefTitle": "MaxPixel",
 			"imageRefDate": "17 May 2018",
-			"slidesUrl": "https://hit226.github.io/slides/slides/week11/#/2",
+			"slidesUrl": "https://hit226.github.io/slides/week11/#/3",
 			"mainResource": {
-				"title": "The front end dev handbook 2018",
-				"url": "https://frontendmasters.com/books/front-end-handbook/2018/"
+				"title": "The front end dev handbook 2019",
+				"url": "https://frontendmasters.com/books/front-end-handbook/2019/"
 			},
 			"extraResources": [
 				{
